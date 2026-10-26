@@ -1,15 +1,24 @@
-
 ### Olá meu nome é William Santana!
 
-Linguagens e frameworks: Reactjs, Nextjs e TypeScript
+Formado em Engenharia de Software, com foco em desenvolvimento web, criação de interfaces e aprimoramento contínuo de habilidades técnicas.
 
-Estilização: Tailwind, StitchesJS, Styled-components, Bootstrap
+<br>
 
-Banco de Dados: PostgreSQL e MySQL
+### Tecnologias
 
-Ferramentas de UI/UX: Figma, Storybook, Photoshop
+**Front-end:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3
 
-Metodologias Ágeis: Scrum, Kanban
+**Back-end:** Python, Java, APIs REST
+
+**Estilização:** Tailwind CSS, Stitches, Styled Components, Bootstrap
+
+**Cloud:** AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch, SSM Parameter Store)
+
+**Banco de dados:** PostgreSQL, MySQL, DynamoDB
+
+**Ferramentas:** Git, GitHub, Bitbucket, Jenkins, CI/CD
+
+**Metodologias ágeis:** Scrum, Kanban
 
 
   ##
